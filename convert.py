@@ -2,23 +2,12 @@ import re
 
 question_regex = '[T][0-9][A-Z][0-9][0-9]'
 question_list = []
-# Writing to a file
-#outfile = open('myfile.txt', 'w')
-#outfile.writelines((L))
-#outfile.close()
 
-#read file
 infile = open('rules.txt', 'r')
-count = 0
   
 while True:
-    count += 1
-  
-    # Get next line from file
     line = infile.readline()
     q_dict = {}
-    # if line is empty
-    # end of file is reached
     if not line:
         break
     elif re.match(question_regex, line):
@@ -35,13 +24,10 @@ while True:
         q_dict["answer_c"] = infile.readline().strip('\n')
         q_dict["answer_d"] = infile.readline().strip('\n')
         
-        #print(q_dict)
         question_list.append(q_dict)
-        # input("next")
 infile.close()
-#outfile.close()
 
-print(len(question_list))
+print(f"{len(question_list)} questions read from file")
 count = 1
 for dic in question_list:
     print(f"{count} {dic['question_number']}")
