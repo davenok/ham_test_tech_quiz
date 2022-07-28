@@ -1,7 +1,10 @@
 import re
+import json
+import random
+from pprint import pprint
 
 question_regex = '[T][0-9][A-Z][0-9][0-9]'
-question_list = []
+question_pool = []
 
 infile = open('rules.txt', 'r')
   
@@ -24,15 +27,36 @@ while True:
         q_dict["answer_c"] = infile.readline().strip('\n')
         q_dict["answer_d"] = infile.readline().strip('\n')
         
-        question_list.append(q_dict)
+        question_pool.append(q_dict)
 infile.close()
 
-print(f"{len(question_list)} questions read from file")
-count = 1
-for dic in question_list:
-    print(f"{count} {dic['question_number']}")
-    count += 1
+# print(f"{len(question_list)} questions read from file")
+# count = 1
+# for dic in question_list:
+#     print(f"{count} {dic['question_number']}")
+#     count += 1
 
+#35 questions - by category  6,3,3,2,4,4,4,4,2,3
+
+group = "T1"
+my_list = list(
+    filter(
+        lambda item: item["question_number"].startswith(group), question_pool
+        )
+    )
+
+pprint(my_list)
+
+section_list = []
+
+for q in range(1,7):
+    section_list += random.choice(my_list)
+
+
+print(section_list)
+#question_data = json.dumps(question_list)
+
+#print(question_data)
 
 # ORIGINAL CODE BELOW
 # import requests
