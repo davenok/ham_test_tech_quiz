@@ -2,8 +2,8 @@
 # 2022-2026 Technician Class
 
 # FCC Element 2 Question Pool
-# Effective 7/01/2022 � 6/30/2026
-# SUBELEMENT T1 � COMMISSION�S RULES - [6 Exam Questions - 6 Groups]
+# Effective 7/01/2022  6/30/2026
+# SUBELEMENT T1  COMMISSIONS RULES - [6 Exam Questions - 6 Groups]
 T1A - Purpose and permissible use of the Amateur Radio Service; Operator/primary station license grant;
 Meanings of basic terms used in FCC rules; Interference; RACES rules; Phonetics; Frequency Coordinator
 T1A01 (C) [97.1]
@@ -21,8 +21,7 @@ C. The FCC
 D. All these choices are correct
 ~~
 T1A03 (B) [97.119(b)(2)]
-What do the FCC rules state regarding the use of a phonetic alphabet for station identification in the Amateur
-Radio Service?
+What do the FCC rules state regarding the use of a phonetic alphabet for station identification in the Amateur Radio Service?
 A. It is required when transmitting emergency messages
 B. It is encouraged
 C. It is required when in contact with foreign stations
@@ -46,10 +45,8 @@ T1A06 (D) [97.3(a)(9)]
 What is the FCC Part 97 definition of a beacon?
 A. A government transmitter marking the amateur radio band edges
 B. A bulletin sent by the FCC to announce a national emergency
-C. A continuous transmission of weather information authorized in the amateur bands by the National Weather
-Service
-D. An amateur station transmitting communications for the purposes of observing propagation or related
-experimental activities
+C. A continuous transmission of weather information authorized in the amateur bands by the National Weather Service
+D. An amateur station transmitting communications for the purposes of observing propagation or related experimental activities
 ~~
 T1A07 (C) [97.3(a)(41)]
 What is the FCC Part 97 definition of a space station?
@@ -59,8 +56,7 @@ C. An amateur station located more than 50 km above Earth's surface
 D. An amateur station using amateur radio satellites for relay of signals
 ~~
 T1A08 (B) [97.3(a)(22)]
-Which of the following entities recommends transmit/receive channels and other parameters for auxiliary and
-repeater stations?
+Which of the following entities recommends transmit/receive channels and other parameters for auxiliary and repeater stations?
 A. Frequency Spectrum Manager appointed by the FCC
 B. Volunteer Frequency Coordinator recognized by local amateurs
 C. FCC Regional Field Office
@@ -77,8 +73,7 @@ T1A10 (D) [97.3(a)(38), 97.407]
 What is the Radio Amateur Civil Emergency Service (RACES)?
 A. A radio service using amateur frequencies for emergency management or civil defense communications
 B. A radio service using amateur stations for emergency management or civil defense communications
-C. An emergency service using amateur operators certified by a civil defense organization as being enrolled in
-that organization
+C. An emergency service using amateur operators certified by a civil defense organization as being enrolled in that organization
 D. All these choices are correct
 ~~
 T1A11 (B) [97.101 (d)]
@@ -102,8 +97,7 @@ Which amateurs may contact the International Space Station (ISS) on VHF bands?
 A. Any amateur holding a General class or higher license
 B. Any amateur holding a Technician class or higher license
 C. Any amateur holding a General class or higher license who has applied for and received approval from NASA
-D. Any amateur holding a Technician class or higher license who has applied for and received approval from
-NASA
+D. Any amateur holding a Technician class or higher license who has applied for and received approval from NASA
 ~~
 T1B03 (B) [97.301(a)]
 Which frequency is in the 6 meter amateur band?
@@ -169,8 +163,7 @@ C. 50 watts
 D. 10 watts
 ~~
 T1B12 (D) [97.313(b)]
-Except for some specific restrictions, what is the maximum peak envelope power output for Technician class
-operators using frequencies above 30 MHz?
+Except for some specific restrictions, what is the maximum peak envelope power output for Technician class operators using frequencies above 30 MHz?
 A. 50 watts
 B. 100 watts
 C. 500 watts
@@ -223,8 +216,7 @@ D. From any vessel or craft located in international waters and documented or re
 ~~
 T1C07 (B) [97.23]
 Which of the following can result in revocation of the station license or suspension of the operator license?
-A. Failure to inform the FCC of any changes in the amateur station following performance of an RF safety
-environmental evaluation
+A. Failure to inform the FCC of any changes in the amateur station following performance of an RF safety environmental evaluation
 B. Failure to provide and maintain a correct email address with the FCC
 C. Failure to obtain FCC type acceptance prior to using a home-built transmitter
 D. Failure to have a copy of your license available at your station
@@ -244,16 +236,14 @@ C. Five years
 D. Ten years
 ~~
 T1C10 (C) [97.5a]
-How soon after passing the examination for your first amateur radio license may you transmit on the amateur
-radio bands?
+How soon after passing the examination for your first amateur radio license may you transmit on the amateur radio bands?
 A. Immediately on receiving your Certificate of Successful Completion of Examination (CSCE)
 B. As soon as your operator/station license grant appears on the ARRL website
-C. As soon as your operator/station license grant appears in the FCC�s license database
+C. As soon as your operator/station license grant appears in the FCCs license database
 D. As soon as you receive your license in the mail from the FCC
 ~~
 T1C11 (D) [97.21(b)]
-If your license has expired and is still within the allowable grace period, may you continue to transmit on the
-amateur radio bands?
+If your license has expired and is still within the allowable grace period, may you continue to transmit on the amateur radio bands?
 A. Yes, for up to two years
 B. Yes, as soon as you apply for renewal
 C. Yes, for up to one year
@@ -264,10 +254,8 @@ information with other services, indecent language, compensation for operating, 
 amateur signals, encryption, sale of equipment, unidentified transmissions, one-way transmission
 T1D01 (A) [97.111(a)(1)]
 With which countries are FCC-licensed amateur radio stations prohibited from exchanging communications?
-A. Any country whose administration has notified the International Telecommunication Union (ITU) that it
-objects to such communications
-B. Any country whose administration has notified the American Radio Relay League (ARRL) that it objects to such
-communications
+A. Any country whose administration has notified the International Telecommunication Union (ITU) that it objects to such communications
+B. Any country whose administration has notified the American Radio Relay League (ARRL) that it objects to such communications
 C. Any country banned from such communications by the International Amateur Radio Union (IARU)
 D. Any country banned from making such communications by the American Radio Relay League (ARRL)
 ~~
@@ -293,17 +281,14 @@ C. When transmissions are limited to less than three minutes per hour
 D. When the music is transmitted above 1280 MHz
 ~~
 T1D05 (D) [97.113(a)(3)(ii)]
-When may amateur radio operators use their stations to notify other amateurs of the availability of equipment
-for sale or trade?
+When may amateur radio operators use their stations to notify other amateurs of the availability of equipment for sale or trade?
 A. Never
-B. When the equipment is not the personal property of either the station licensee, or the control operator, or
-their close relatives
+B. When the equipment is not the personal property of either the station licensee, or the control operator, or their close relatives
 C. When no profit is made on the sale
 D. When selling amateur radio equipment and not on a regular basis
 ~~
 T1D06 (B) [97.113(a)(4)]
-What, if any, are the restrictions concerning transmission of language that may be considered indecent or
-obscene?
+What, if any, are the restrictions concerning transmission of language that may be considered indecent or obscene?
 A. The FCC maintains a list of words that are not permitted to be used on amateur frequencies
 B. Any such language is prohibited
 C. The ITU maintains a list of words that are not permitted to be used on amateur frequencies
@@ -317,21 +302,17 @@ C. Beacon, repeater, or space stations
 D. Repeater, auxiliary, or space stations
 ~~
 T1D08 (B) [97.113(a)(3)(iii)]
-In which of the following circumstances may the control operator of an amateur station receive compensation
-for operating that station?
+In which of the following circumstances may the control operator of an amateur station receive compensation for operating that station?
 A. When the communication is related to the sale of amateur equipment by the control operator's employer
 B. When the communication is incidental to classroom instruction at an educational institution
 C. When the communication is made to obtain emergency information for a local broadcast station
 D. All these choices are correct
 ~~
 T1D09 (A) [97.113(5)(b)]
-When may amateur stations transmit information in support of broadcasting, program production, or news
-gathering, assuming no other means is available?
-A. When such communications are directly related to the immediate safety of human life or protection of
-property
+When may amateur stations transmit information in support of broadcasting, program production, or news gathering, assuming no other means is available?
+A. When such communications are directly related to the immediate safety of human life or protection of property
 B. When broadcasting communications to or from the space shuttle
-C. Where noncommercial programming is gathered and supplied exclusively to the National Public Radio
-network
+C. Where noncommercial programming is gathered and supplied exclusively to the National Public Radio network
 D. Never
 ~~
 T1D10 (D) [97.3(a)(10)]
@@ -348,8 +329,7 @@ B. When the transmissions are unmodulated
 C. When the transmitted power level is below 1 watt
 D. When transmitting signals to control model craft
 ~~
-T1E - Control operator: eligibility, designating, privileges, duties, location, required; Control point; Control types:
-automatic, remote
+T1E - Control operator: eligibility, designating, privileges, duties, location, required; Control point; Control types: automatic, remote
 T1E01 (D) [97.7(a)]
 When may an amateur station transmit without a control operator?
 A. When using automatic control, such as in the case of a repeater
@@ -379,23 +359,21 @@ C. The highest class of operator license held by anyone on the premises
 D. The class of operator license held by the control operator
 ~~
 T1E05 (C) [97.3(a)(14)]
-What is an amateur station�s control point?
-A. The location of the station�s transmitting antenna
-B. The location of the station�s transmitting apparatus
+What is an amateur stations control point?
+A. The location of the stations transmitting antenna
+B. The location of the stations transmitting apparatus
 C. The location at which the control operator function is performed
 D. The mailing address of the station licensee
 ~~
 T1E06 (A) [97.301]
-When, under normal circumstances, may a Technician class licensee be the control operator of a station
-operating in an Amateur Extra Class band segment?
+When, under normal circumstances, may a Technician class licensee be the control operator of a station operating in an Amateur Extra Class band segment?
 A. At no time
 B. When designated as the control operator by an Amateur Extra Class licensee
 C. As part of a multi-operator contest team
 D. When using a club station whose trustee holds an Amateur Extra Class license
 ~~
 T1E07 (D) [97.103(a)]
-When the control operator is not the station licensee, who is responsible for the proper operation of the
-station?
+When the control operator is not the station licensee, who is responsible for the proper operation of the station?
 A. All licensed amateurs who are present at the operation
 B. Only the station licensee
 C. Only the control operator
@@ -423,8 +401,7 @@ C. Controlling a model aircraft, boat, or car by amateur radio
 D. All these choices are correct
 ~~
 T1E11 (D) [97.103(a)]
-Who does the FCC presume to be the control operator of an amateur station, unless documentation to the
-contrary is in the station records?
+Who does the FCC presume to be the control operator of an amateur station, unless documentation to the contrary is in the station records?
 A. The station custodian
 B. The third party participant
 C. The person operating the station equipment
@@ -439,8 +416,7 @@ C. At any time after written notification by the FCC of such inspection
 D. Only when presented with a valid warrant by an FCC official or government agent
 ~~
 T1F02 (C) [97.119 (a)]
-How often must you identify with your FCC-assigned call sign when using tactical call signs such as �Race
-Headquarters�?
+How often must you identify with your FCC-assigned call sign when using tactical call signs such as Race Headquarters?
 A. Never, the tactical call is sufficient
 B. Once during every hour
 C. At the end of each communication and every ten minutes during a communication
@@ -475,8 +451,7 @@ C. KL7CC slash W3
 D. All these choices are correct
 ~~
 T1F07 (B) [97.115(a)(2)]
-Which of the following restrictions apply when a non-licensed person is allowed to speak to a foreign station
-using a station under the control of a licensed amateur operator?
+Which of the following restrictions apply when a non-licensed person is allowed to speak to a foreign station using a station under the control of a licensed amateur operator?
 A. The person must be a U.S. citizen
 B. The foreign station must be in a country with which the U.S. has a third party agreement
 C. The licensed control operator must do the station identification
@@ -487,12 +462,10 @@ What is the definition of third party communications?
 A. A message from a control operator to another amateur station control operator on behalf of another person
 B. Amateur radio communications where three stations are in communications with one another
 C. Operation when the transmitting equipment is licensed to a person other than the control operator
-D. Temporary authorization for an unlicensed person to transmit on the amateur bands for technical
-experiments
+D. Temporary authorization for an unlicensed person to transmit on the amateur bands for technical experiments
 ~~
 T1F09 (C) [97.3(a)(40)]
-What type of amateur station simultaneously retransmits the signal of another amateur station on a different
-channel or channels?
+What type of amateur station simultaneously retransmits the signal of another amateur station on a different channel or channels?
 A. Beacon station
 B. Earth station
 C. Repeater station
@@ -545,9 +518,9 @@ D. Wait for the station to call CQ, then answer
 ~~
 T2A05 (C)
 How should you respond to a station calling CQ?
-A. Transmit "CQ" followed by the other station�s call sign
-B. Transmit your call sign followed by the other station�s call sign
-C. Transmit the other station�s call sign followed by your call sign
+A. Transmit "CQ" followed by the other stations call sign
+B. Transmit your call sign followed by the other stations call sign
+C. Transmit the other stations call sign followed by your call sign
 D. Transmit a signal report followed by your call sign
 ~~
 T2A06 (A)
@@ -558,14 +531,14 @@ C. Notify the FCC of the transmissions
 D. All these choices are correct
 ~~
 T2A07 (A)
-What is meant by "repeater offset�?
-A. The difference between a repeater�s transmit and receive frequencies
+What is meant by "repeater offset?
+A. The difference between a repeaters transmit and receive frequencies
 B. The repeater has a time delay to prevent interference
 C. The repeater station identification is done on a separate frequency
 D. The number of simultaneous transmit frequencies used by a repeater
 ~~
 T2A08 (D)
-What is the meaning of the procedural signal �CQ�?
+What is the meaning of the procedural signal CQ?
 A. Call on the quarter hour
 B. Test transmission, no reply expected
 C. Only the called station should transmit
@@ -573,10 +546,10 @@ D. Calling any station
 ~~
 T2A09 (B)
 Which of the following indicates that a station is listening on a repeater and looking for a contact?
-A. �CQ CQ� followed by the repeater�s call sign
-B. The station�s call sign followed by the word �monitoring�
-C. The repeater call sign followed by the station�s call sign
-D. �QSY� followed by your call sign
+A. CQ CQ followed by the repeaters call sign
+B. The stations call sign followed by the word monitoring
+C. The repeater call sign followed by the stations call sign
+D. QSY followed by your call sign
 ~~
 T2A10 (A)
 What is a band plan, beyond the privileges established by the FCC?
@@ -599,18 +572,17 @@ B. Ask if the frequency is in use
 C. Make sure you are authorized to use that frequency
 D. All these choices are correct
 ~~
-T2B � VHF/UHF operating practices: FM repeater, simplex, reverse splits; Access tones: CTCSS, DTMF; DMR
+T2B  VHF/UHF operating practices: FM repeater, simplex, reverse splits; Access tones: CTCSS, DTMF; DMR
 operation; Resolving operational problems; Q signals
 T2B01 (C)
-How is a VHF/UHF transceiver�s �reverse� function used?
+How is a VHF/UHF transceivers reverse function used?
 A. To reduce power output
 B. To increase power output
-C. To listen on a repeater�s input frequency
-D. To listen on a repeater�s output frequency
+C. To listen on a repeaters input frequency
+D. To listen on a repeaters output frequency
 ~~
 T2B02 (D)
-What term describes the use of a sub-audible tone transmitted along with normal voice audio to open the
-squelch of a receiver?
+What term describes the use of a sub-audible tone transmitted along with normal voice audio to open the squelch of a receiver?
 A. Carrier squelch
 B. Tone burst
 C. DTMF
@@ -618,8 +590,7 @@ D. CTCSS
 ~~
 T2B03 (A)
 Which of the following describes a linked repeater network?
-A. A network of repeaters in which signals received by one repeater are transmitted by all the repeaters in the
-network
+A. A network of repeaters in which signals received by one repeater are transmitted by all the repeaters in the network
 B. A single repeater with more than one receiver
 C. Multiple repeaters with the same control operator
 D. A system of repeaters linked by APRS
@@ -646,10 +617,10 @@ C. GPRS
 D. D-STAR
 ~~
 T2B07 (C)
-How can you join a digital repeater�s �talkgroup�?
+How can you join a digital repeaters talkgroup?
 A. Register your radio with the local FCC office
-B. Join the repeater owner�s club
-C. Program your radio with the group�s ID or code
+B. Join the repeater owners club
+C. Program your radio with the groups ID or code
 D. Sign your call after the courtesy tone
 ~~
 T2B08 (A)
@@ -694,7 +665,7 @@ B. Mute the receiver audio when a signal is not present
 C. Eliminate parasitic oscillations in an RF amplifier
 D. Reduce interference from impulse noise
 ~~
-T2C � Public service: emergency operations, applicability of FCC rules, RACES and ARES, net and traffic
+T2C  Public service: emergency operations, applicability of FCC rules, RACES and ARES, net and traffic
 procedures, operating restrictions during emergencies, use of phonetics in message handling
 T2C01 (D) [97.103(a)]
 When do FCC rules NOT apply to the operation of an amateur station?
@@ -721,11 +692,11 @@ T2C04 (D)
 What is RACES?
 A. An emergency organization combining amateur radio and citizens band operators and frequencies
 B. An international radio experimentation society
-C. A radio contest held in a short period, sometimes called a �sprint�
+C. A radio contest held in a short period, sometimes called a sprint
 D. An FCC part 97 amateur radio service for civil defense communications during national emergencies
 ~~
 T2C05 (A)
-What does the term �traffic� refer to in net operation?
+What does the term traffic refer to in net operation?
 A. Messages exchanged by net stations
 B. The number of stations checking in and out of a net
 C. Operation by mobile or portable stations
@@ -733,19 +704,14 @@ D. Requests to activate the net by a served agency
 ~~
 T2C06 (A)
 What is the Amateur Radio Emergency Service (ARES)?
-A. A group of licensed amateurs who have voluntarily registered their qualifications and equipment for
-communications duty in the public service
-B. A group of licensed amateurs who are members of the military and who voluntarily agreed to provide
-message handling services in the case of an emergency
-C. A training program that provides licensing courses for those interested in obtaining an amateur license to use
-during emergencies
-D. A training program that certifies amateur operators for membership in the Radio Amateur Civil Emergency
-Service
+A. A group of licensed amateurs who have voluntarily registered their qualifications and equipment for communications duty in the public service
+B. A group of licensed amateurs who are members of the military and who voluntarily agreed to provide message handling services in the case of an emergency
+C. A training program that provides licensing courses for those interested in obtaining an amateur license to use during emergencies
+D. A training program that certifies amateur operators for membership in the Radio Amateur Civil Emergency Service
 ~~
 T2C07 (C)
 Which of the following is standard practice when you participate in a net?
-A. When first responding to the net control station, transmit your call sign, name, and address as in the FCC
-database
+A. When first responding to the net control station, transmit your call sign, name, and address as in the FCC database
 B. Record the time of each of your transmissions
 C. Unless you are reporting an emergency, transmit only when directed by the net control station
 D. All these choices are correct
@@ -758,8 +724,7 @@ C. Ensuring that any newsworthy messages are relayed to the news media
 D. All these choices are correct
 ~~
 T2C09 (D)
-Are amateur station control operators ever permitted to operate outside the frequency privileges of their
-license class?
+Are amateur station control operators ever permitted to operate outside the frequency privileges of their license class?
 A. No
 B. Yes, but only when part of a FEMA emergency plan
 C. Yes, but only when part of a RACES emergency plan
@@ -773,13 +738,13 @@ C. The telephone number of the addressee
 D. Information needed to track the message
 ~~
 T2C11 (A)
-What is meant by �check� in a radiogram header?
+What is meant by check in a radiogram header?
 A. The number of words or word equivalents in the text portion of the message
 B. The call sign of the originating station
 C. A list of stations that have relayed the message
 D. A box on the message form that indicates that the message was received and/or relayed
 ~~
-SUBELEMENT T3 � RADIO WAVE PROPAGATION � [3 Exam Questions - 3 Groups]
+SUBELEMENT T3  RADIO WAVE PROPAGATION  [3 Exam Questions - 3 Groups]
 T3A - Radio wave characteristics: how a radio signal travels, fading, multipath, polarization, wavelength vs
 absorption; Antenna orientation
 T3A01 (C)
@@ -804,23 +769,21 @@ C. Horizontal
 D. Vertical
 ~~
 T3A04 (B)
-What happens when antennas at opposite ends of a VHF or UHF line of sight radio link are not using the same
-polarization?
+What happens when antennas at opposite ends of a VHF or UHF line of sight radio link are not using the same polarization?
 A. The modulation sidebands might become inverted
 B. Received signal strength is reduced
 C. Signals have an echo effect
 D. Nothing significant will happen
 ~~
 T3A05 (B)
-When using a directional antenna, how might your station be able to communicate with a distant repeater if
-buildings or obstructions are blocking the direct line of sight path?
+When using a directional antenna, how might your station be able to communicate with a distant repeater if buildings or obstructions are blocking the direct line of sight path?
 A. Change from vertical to horizontal polarization
 B. Try to find a path that reflects signals to the repeater
 C. Try the long path
 D. Increase the antenna SWR
 ~~
 T3A06 (B)
-What is the meaning of the term �picket fencing�?
+What is the meaning of the term picket fencing?
 A. Alternating transmissions during a net operation
 B. Rapid flutter on mobile signals due to multipath propagation
 C. A type of ground system used with vertical antennas
@@ -971,24 +934,21 @@ C. They occur only during winter nighttime hours
 D. They are generally strongest when your antenna is aimed west
 ~~
 T3C04 (B)
-Which of the following types of propagation is most commonly associated with occasional strong signals on the
-10, 6, and 2 meter bands from beyond the radio horizon?
+Which of the following types of propagation is most commonly associated with occasional strong signals on the 10, 6, and 2 meter bands from beyond the radio horizon?
 A. Backscatter
 B. Sporadic E
 C. D region absorption
 D. Gray-line propagation
 ~~
 T3C05 (A)
-Which of the following effects may allow radio signals to travel beyond obstructions between the transmitting
-and receiving stations?
+Which of the following effects may allow radio signals to travel beyond obstructions between the transmitting and receiving stations?
 A. Knife-edge diffraction
 B. Faraday rotation
 C. Quantum tunneling
 D. Doppler shift
 ~~
 T3C06 (A)
-What type of propagation is responsible for allowing over-the-horizon VHF and UHF communications to ranges
-of approximately 300 miles on a regular basis?
+What type of propagation is responsible for allowing over-the-horizon VHF and UHF communications to ranges of approximately 300 miles on a regular basis?
 A. Tropospheric ducting
 B. D region refraction
 C. F2 region refraction
@@ -1016,8 +976,7 @@ C. From dawn to shortly after sunset during periods of low sunspot activity
 D. From shortly after sunset to dawn during periods of low sunspot activity
 ~~
 T3C10 (A)
-Which of the following bands may provide long-distance communications via the ionosphere�s F region during
-the peak of the sunspot cycle?
+Which of the following bands may provide long-distance communications via the ionospheres F region during the peak of the sunspot cycle?
 A. 6 and 10 meters
 B. 23 centimeters
 C. 70 centimeters and 1.25 meters
@@ -1030,8 +989,8 @@ B. Radio waves are not blocked by dust particles
 C. The atmosphere refracts radio waves slightly
 D. Radio waves are blocked by dust particles
 ~~
-SUBELEMENT T4 � AMATEUR RADIO PRACTICES � [2 Exam Questions - 2 Groups]
-T4A � Station setup: connecting a microphone, a power source, a computer, digital equipment, an SWR meter;
+SUBELEMENT T4  AMATEUR RADIO PRACTICES  [2 Exam Questions - 2 Groups]
+T4A  Station setup: connecting a microphone, a power source, a computer, digital equipment, an SWR meter;
 bonding; Mobile radio installation
 T4A01 (D)
 Which of the following is an appropriate power supply rating for a typical 50 watt output mobile FM transceiver?
@@ -1048,7 +1007,7 @@ C. The types of modulation being used at the station
 D. All these choices are correct
 ~~
 T4A03 (A)
-Why are short, heavy-gauge wires used for a transceiver�s DC power connection?
+Why are short, heavy-gauge wires used for a transceivers DC power connection?
 A. To minimize voltage drop when transmitting
 B. To provide a good counterpoise for the antenna
 C. To avoid RF interference
@@ -1076,12 +1035,11 @@ C. Receive audio, transmit audio, and transmitter keying
 D. NMEA GPS location and DC power
 ~~
 T4A07 (C)
-Which of the following connections is made between a computer and a transceiver to use computer software
-when operating digital modes?
-A. Computer �line out� to transceiver push-to-talk
-B. Computer �line in� to transceiver push-to-talk
-C. Computer �line in� to transceiver speaker connector
-D. Computer �line out� to transceiver speaker connector
+Which of the following connections is made between a computer and a transceiver to use computer software when operating digital modes?
+A. Computer line out to transceiver push-to-talk
+B. Computer line in to transceiver push-to-talk
+C. Computer line in to transceiver speaker connector
+D. Computer line out to transceiver speaker connector
 ~~
 T4A08 (D)
 Which of the following conductors is preferred for bonding at RF?
@@ -1109,7 +1067,7 @@ Where should the negative power return of a mobile transceiver be connected in a
 A. At the 12 volt battery chassis ground
 B. At the antenna mount
 C. To any metal part of the vehicle
-D. Through the transceiver�s mounting bracket
+D. Through the transceivers mounting bracket
 ~~
 T4A12 (C)
 What is an electronic keyer?
@@ -1129,7 +1087,7 @@ C. Increased SWR
 D. All these choices are correct
 ~~
 T4B02 (A)
-Which of the following can be used to enter a transceiver�s operating frequency?
+Which of the following can be used to enter a transceivers operating frequency?
 A. The keypad or VFO knob
 B. The CTCSS or DTMF encoder
 C. The Automatic Frequency Control
@@ -1157,15 +1115,14 @@ C. Tunes through a range of frequencies to check for activity
 D. Checks for messages left on a digital bulletin board
 ~~
 T4B06 (D)
-Which of the following controls could be used if the voice pitch of a single-sideband signal returning to your CQ
-call seems too high or low?
+Which of the following controls could be used if the voice pitch of a single-sideband signal returning to your CQ call seems too high or low?
 A. The AGC or limiter
 B. The bandwidth selection
 C. The tone squelch
 D. The RIT or Clarifier
 ~~
 T4B07 (B)
-What does a DMR �code plug� contain?
+What does a DMR code plug contain?
 A. Your call sign in CW for automatic identification
 B. Access information for repeaters and talkgroups
 C. The codec for digitizing audio
@@ -1181,8 +1138,8 @@ D. Increases the amount of offset between receive and transmit frequencies
 T4B09 (C)
 How is a specific group of stations selected on a digital voice transceiver?
 A. By retrieving the frequencies from transceiver memory
-B. By enabling the group�s CTCSS tone
-C. By entering the group�s identification code
+B. By enabling the groups CTCSS tone
+C. By entering the groups identification code
 D. By activating automatic identification
 ~~
 T4B10 (C)
@@ -1200,14 +1157,14 @@ C. The codec type being used
 D. All these choices are correct
 ~~
 T4B12 (D)
-What is the result of tuning an FM receiver above or below a signal�s frequency?
+What is the result of tuning an FM receiver above or below a signals frequency?
 A. Change in audio pitch
 B. Sideband inversion
 C. Generation of a heterodyne tone
-D. Distortion of the signal�s audio
+D. Distortion of the signals audio
 ~~
-SUBELEMENT T5 � ELECTRICAL PRINCIPLES � [4 Exam Questions - 4 Groups]
-T5A � Current and voltage: terminology and units, conductors and insulators, alternating and direct current
+SUBELEMENT T5  ELECTRICAL PRINCIPLES  [4 Exam Questions - 4 Groups]
+T5A  Current and voltage: terminology and units, conductors and insulators, alternating and direct current
 T5A01 (D)
 Electrical current is measured in which of the following units?
 A. Volts
@@ -1384,7 +1341,7 @@ B. 24.25 GHz
 C. 2.425 GHz
 D. 2425 GHz
 ~~
-T5C � Capacitance and inductance terminology and units; Radio frequency definition and units; Impedance
+T5C  Capacitance and inductance terminology and units; Radio frequency definition and units; Impedance
 definition and units; Calculating power
 T5C01 (D)
 What describes the ability to store energy in an electric field?
@@ -1422,7 +1379,7 @@ C. The coulomb
 D. The ohm
 ~~
 T5C06 (A)
-What does the abbreviation �RF� mean?
+What does the abbreviation RF mean?
 A. Radio frequency signals of all types
 B. The resonant frequency of a tuned circuit
 C. The real frequency transmitted as opposed to the apparent frequency
@@ -1439,7 +1396,7 @@ T5C08 (A)
 What is the formula used to calculate electrical power (P) in a DC circuit?
 A. P = I ? E
 B. P = E / I
-C. P = E � I
+C. P = E  I
 D. P = I + E
 ~~
 T5C09 (A)
@@ -1477,7 +1434,7 @@ B. khz
 C. khZ
 D. kHz
 ~~
-T5D � Ohm�s Law; Series and parallel circuits
+T5D  Ohms Law; Series and parallel circuits
 T5D01 (B)
 What formula is used to calculate current in a circuit?
 A. I = E ? R
@@ -1576,7 +1533,7 @@ B. Parallel
 C. Resonant
 D. Branch
 ~~
-SUBELEMENT T6 � ELECTRONIC AND ELECTRICAL COMPONENTS � [4 Exam Questions - 4 Groups]
+SUBELEMENT T6  ELECTRONIC AND ELECTRICAL COMPONENTS  [4 Exam Questions - 4 Groups]
 T6A - Fixed and variable resistors; Capacitors; Inductors; Fuses; Switches; Batteries
 T6A01 (B)
 What electrical component opposes the flow of current in a DC circuit?
@@ -1662,7 +1619,7 @@ B. Single-pole double-throw
 C. Double-pole single-throw
 D. Double-pole double-throw
 ~~
-T6B � Semiconductors: basic principles and applications of solid state devices, diodes and transistors
+T6B  Semiconductors: basic principles and applications of solid state devices, diodes and transistors
 T6B01 (A)
 Which is true about forward voltage drop in a diode?
 A. It is lower in some diode types than in others
@@ -1911,8 +1868,8 @@ B. A linear voltage regulator
 C. A resistor circuit used for reducing standing wave ratio
 D. A circuit designed to provide high-fidelity audio
 ~~
-SUBELEMENT T7 � PRACTICAL CIRCUITS � [4 Exam Questions - 4 Groups]
-T7A � Station equipment: receivers, transceivers, transmitter amplifiers, receive amplifiers, transverters; Basic
+SUBELEMENT T7  PRACTICAL CIRCUITS  [4 Exam Questions - 4 Groups]
+T7A  Station equipment: receivers, transceivers, transmitter amplifiers, receive amplifiers, transverters; Basic
 radio circuit concepts and terminology: sensitivity, selectivity, mixers, oscillators, PTT, modulation
 T7A01 (B)
 Which term describes the ability of a receiver to detect the presence of a signal?
@@ -1957,7 +1914,7 @@ C. Transverter
 D. Phase converter
 ~~
 T7A07 (B)
-What is the function of a transceiver�s PTT input?
+What is the function of a transceivers PTT input?
 A. Input for a key used to send CW
 B. Switches transceiver from receive to transmit when grounded
 C. Provides a transmit tuning tone when grounded
@@ -1991,7 +1948,7 @@ B. At the output of the transmitter power amplifier
 C. Between the transmitter and the antenna tuner
 D. At the output of the receiver audio amplifier
 ~~
-T7B � Symptoms, causes, and cures of common transmitter and receiver problems: overload and overdrive,
+T7B  Symptoms, causes, and cures of common transmitter and receiver problems: overload and overdrive,
 distortion, interference and consumer electronics, RF feedback
 T7B01 (D)
 What can you do if you are told your FM handheld or mobile transceiver is over-deviating?
@@ -2015,26 +1972,22 @@ C. Spurious emissions
 D. All these choices are correct
 ~~
 T7B04 (D)
-Which of the following could you use to cure distorted audio caused by RF current on the shield of a microphone
-cable?
+Which of the following could you use to cure distorted audio caused by RF current on the shield of a microphone cable?
 A. Band-pass filter
 B. Low-pass filter
 C. Preamplifier
 D. Ferrite choke
 ~~
 T7B05 (A)
-How can fundamental overload of a non-amateur radio or TV receiver by an amateur signal be reduced or
-eliminated?
+How can fundamental overload of a non-amateur radio or TV receiver by an amateur signal be reduced or eliminated?
 A. Block the amateur signal with a filter at the antenna input of the affected receiver
 B. Block the interfering signal with a filter on the amateur transmitter
 C. Switch the transmitter from FM to SSB
 D. Switch the transmitter to a narrow-band mode
 ~~
 T7B06 (A)
-Which of the following actions should you take if a neighbor tells you that your station�s transmissions are
-interfering with their radio or TV reception?
-A. Make sure that your station is functioning properly and that it does not cause interference to your own radio
-or television when it is tuned to the same channel
+Which of the following actions should you take if a neighbor tells you that your stations transmissions are interfering with their radio or TV reception?
+A. Make sure that your station is functioning properly and that it does not cause interference to your own radio or television when it is tuned to the same channel
 B. Immediately turn off your transmitter and contact the nearest FCC office for assistance
 C. Install a harmonic doubler on the output of your transmitter and tune it until the interference is eliminated
 D. All these choices are correct
@@ -2047,23 +2000,21 @@ C. Installing bypass capacitors on the microphone cable
 D. Installing a band-reject filter
 ~~
 T7B08 (D)
-What should you do if something in a neighbor�s home is causing harmful interference to your amateur station?
+What should you do if something in a neighbors home is causing harmful interference to your amateur station?
 A. Work with your neighbor to identify the offending device
 B. Politely inform your neighbor that FCC rules prohibit the use of devices that cause interference
 C. Make sure your station meets the standards of good amateur practice
 D. All these choices are correct
 ~~
 T7B09 (D)
-What should be the first step to resolve non-fiber optic cable TV interference caused by your amateur radio
-transmission?
+What should be the first step to resolve non-fiber optic cable TV interference caused by your amateur radio transmission?
 A. Add a low-pass filter to the TV antenna input
 B. Add a high-pass filter to the TV antenna input
 C. Add a preamplifier to the TV antenna input
 D. Be sure all TV feed line coaxial connectors are installed properly
 ~~
 T7B10 (D)
-What might be a problem if you receive a report that your audio signal through an FM repeater is distorted or
-unintelligible?
+What might be a problem if you receive a report that your audio signal through an FM repeater is distorted or unintelligible?
 A. Your transmitter is slightly off frequency
 B. Your batteries are running low
 C. You are in a bad location
@@ -2076,7 +2027,7 @@ B. The transmitter will not stay on the desired frequency
 C. Reports of garbled, distorted, or unintelligible voice transmissions
 D. Frequent blowing of power supply fuses
 ~~
-T7C � Antenna and transmission line measurements and troubleshooting: measuring SWR, effects of high SWR,
+T7C  Antenna and transmission line measurements and troubleshooting: measuring SWR, effects of high SWR,
 causes of feed line failures; Basic coaxial cable characteristics; Use of dummy loads when testing
 T7C01 (A)
 What is the primary purpose of a dummy load?
@@ -2144,7 +2095,7 @@ D. Operation at 100% duty cycle for an extended period
 T7C10 (D)
 Why should the outer jacket of coaxial cable be resistant to ultraviolet light?
 A. Ultraviolet resistant jackets prevent harmonic radiation
-B. Ultraviolet light can increase losses in the cable�s jacket
+B. Ultraviolet light can increase losses in the cables jacket
 C. Ultraviolet and RF signals can mix, causing interference
 D. Ultraviolet light can damage the jacket and allow water to enter the cable
 ~~
@@ -2155,7 +2106,7 @@ B. It cannot be used for VHF or UHF antennas
 C. It requires special techniques to prevent moisture in the cable
 D. It cannot be used at below freezing temperatures
 ~~
-T7D � Using basic test instruments: voltmeter, ammeter, and ohmmeter; Soldering
+T7D  Using basic test instruments: voltmeter, ammeter, and ohmmeter; Soldering
 T7D01 (B)
 Which instrument would you use to measure electric potential?
 A. An ammeter
@@ -2227,8 +2178,8 @@ B. Ensure that the circuit is not powered
 C. Ensure that the circuit is grounded
 D. Ensure that the circuit is operating at the correct frequency
 ~~
-SUBELEMENT T8 � SIGNALS AND EMISSIONS � [4 Exam Questions - 4 Groups]
-T8A � Basic characteristics of FM and SSB; Bandwidth of various modulation modes: CW, SSB, FM, fast-scan TV;
+SUBELEMENT T8  SIGNALS AND EMISSIONS  [4 Exam Questions - 4 Groups]
+T8A  Basic characteristics of FM and SSB; Bandwidth of various modulation modes: CW, SSB, FM, fast-scan TV;
 Choice of emission type: selection of USB vs LSB, use of SSB for weak signal work, use of FM for VHF packet and
 repeaters
 T8A01 (C)
@@ -2317,7 +2268,7 @@ D. All these choices are correct
 ~~
 T8B - Amateur satellite operation: Doppler shift, basic orbits, operating protocols, modulation mode selection,
 transmitter power considerations, telemetry and telecommand, satellite tracking programs, beacons, uplink and
-downlink mode definitions, spin fading, definition of �LEO�, setting uplink power
+downlink mode definitions, spin fading, definition of LEO, setting uplink power
 T8B01 (C)
 What telemetry information is typically transmitted by satellite beacons?
 A. The signal strength of received signals
@@ -2403,7 +2354,7 @@ B. Listen for distortion on your downlink signal
 C. Your signal strength on the downlink should be about the same as the beacon
 D. All these choices are correct
 ~~
-T8C � Operating activities: radio direction finding, contests, linking over the internet, exchanging grid locators
+T8C  Operating activities: radio direction finding, contests, linking over the internet, exchanging grid locators
 T8C01 (C)
 Which of the following methods is used to locate sources of noise interference or jamming?
 A. Echolocation
@@ -2449,22 +2400,19 @@ D. By using CTCSS tone codes
 T8C07 (D)
 What is Voice Over Internet Protocol (VoIP)?
 A. A set of rules specifying how to identify your station when linked over the internet to another station
-B. A technique employed to �spot� DX stations via the internet
-C. A technique for measuring the modulation quality of a transmitter using remote sites monitored via the
-internet
+B. A technique employed to spot DX stations via the internet
+C. A technique for measuring the modulation quality of a transmitter using remote sites monitored via the internet
 D. A method of delivering voice communications over the internet using digital techniques
 ~~
 T8C08 (A)
 What is the Internet Radio Linking Project (IRLP)?
-A. A technique to connect amateur radio systems, such as repeaters, via the internet using Voice Over Internet
-Protocol (VoIP)
+A. A technique to connect amateur radio systems, such as repeaters, via the internet using Voice Over Internet Protocol (VoIP)
 B. A system for providing access to websites via amateur radio
 C. A system for informing amateurs in real time of the frequency of active DX stations
 D. A technique for measuring signal strength of an amateur transmitter via the internet
 ~~
 T8C09 (D)
-Which of the following protocols enables an amateur station to transmit through a repeater without using a
-radio to initiate the transmission?
+Which of the following protocols enables an amateur station to transmit through a repeater without using a radio to initiate the transmission?
 A. IRLP
 B. D-STAR
 C. DMR
@@ -2484,7 +2432,7 @@ B. A repeater
 C. A digipeater
 D. A beacon
 ~~
-T8D � Non-voice and digital communications: image signals and definition of NTSC, CW, packet radio, PSK, APRS,
+T8D  Non-voice and digital communications: image signals and definition of NTSC, CW, packet radio, PSK, APRS,
 error detection and correction, amateur radio networking, Digital Mobile Radio, WSJT modes, Broadband-
 Hamnet
 T8D01 (D)
@@ -2495,7 +2443,7 @@ C. FT8
 D. All these choices are correct
 ~~
 T8D02 (B)
-What is a �talkgroup� on a DMR repeater?
+What is a talkgroup on a DMR repeater?
 A. A group of operators sharing common interests
 B. A way for groups of users to share a channel at different times without hearing other users on the channel
 C. A protocol that increases the signal-to-noise ratio when multiple repeaters are linked together
@@ -2517,8 +2465,7 @@ D. A frame compression scheme for TV signals
 ~~
 T8D05 (A)
 Which of the following is an application of APRS?
-A. Providing real-time tactical digital communications in conjunction with a map showing the locations of
-stations
+A. Providing real-time tactical digital communications in conjunction with a map showing the locations of stations
 B. Showing automatically the number of packets transmitted via PACTOR during a specific time interval
 C. Providing voice over internet connection between repeaters
 D. Providing information on the number of stations signed into a repeater
@@ -2534,8 +2481,7 @@ T8D07 (A)
 Which of the following describes DMR?
 A. A technique for time-multiplexing two digital voice signals on a single 12.5 kHz repeater channel
 B. An automatic position tracking mode for FM mobiles communicating through repeaters
-C. An automatic computer logging technique for hands-off logging when communicating while operating a
-vehicle
+C. An automatic computer logging technique for hands-off logging when communicating while operating a vehicle
 D. A digital technique for transmitting on two repeater inputs simultaneously for automatic error correction
 ~~
 T8D08 (D)
@@ -2563,8 +2509,7 @@ T8D11 (C)
 What is an ARQ transmission system?
 A. A special transmission format limited to video signals
 B. A system used to encrypt command signals to an amateur radio satellite
-C. An error correction method in which the receiving station detects errors and sends a request for
-retransmission
+C. An error correction method in which the receiving station detects errors and sends a request for retransmission
 D. A method of compressing data using autonomous reiterative Q codes prior to final encoding
 ~~
 T8D12 (A)
@@ -2581,8 +2526,8 @@ B. A digital mode capable of low signal-to-noise operation
 C. An eight channel multiplex mode for FM repeaters
 D. A digital slow-scan TV mode with forward error correction and automatic color compensation
 ~~
-SUBELEMENT T9 � ANTENNAS AND FEED LINES - [2 Exam Questions - 2 Groups]
-T9A � Antennas: vertical and horizontal polarization, concept of antenna gain, definition and types of beam
+SUBELEMENT T9  ANTENNAS AND FEED LINES - [2 Exam Questions - 2 Groups]
+T9A  Antennas: vertical and horizontal polarization, concept of antenna gain, definition and types of beam
 antennas, antenna loading, common portable and mobile antennas, relationships between resonant length and
 frequency, dipole pattern
 T9A01 (C)
@@ -2607,8 +2552,7 @@ C. A travelling-wave antenna
 D. A vertically polarized antenna
 ~~
 T9A04 (A)
-What is a disadvantage of the short, flexible antenna supplied with most handheld radio transceivers, compared
-to a full-sized quarter-wave antenna?
+What is a disadvantage of the short, flexible antenna supplied with most handheld radio transceivers, compared to a full-sized quarter-wave antenna?
 A. It has low efficiency
 B. It transmits only circularly polarized signals
 C. It is mechanically fragile
@@ -2670,7 +2614,7 @@ B. It radiates at a very high angle
 C. It eliminates distortion caused by reflected signals
 D. It has 10 times the power gain of a 1/4 wavelength whip
 ~~
-T9B � Feed lines: types, attenuation vs frequency, selecting; SWR concepts; Antenna tuners (couplers); RF
+T9B  Feed lines: types, attenuation vs frequency, selecting; SWR concepts; Antenna tuners (couplers); RF
 Connectors: selecting, weather protection
 T9B01 (B)
 What is a benefit of low SWR?
@@ -2754,10 +2698,10 @@ What is standing wave ratio (SWR)?
 A. A measure of how well a load is matched to a transmission line
 B. The ratio of amplifier power output to input
 C. The transmitter efficiency ratio
-D. An indication of the quality of your station�s ground connection
+D. An indication of the quality of your stations ground connection
 ~~
-SUBELEMENT T0 � SAFETY � [3 Exam Questions - 3 Groups]
-T0A � Power circuits and hazards: hazardous voltages, fuses and circuit breakers, grounding, electrical code
+SUBELEMENT T0  SAFETY  [3 Exam Questions - 3 Groups]
+T0A  Power circuits and hazards: hazardous voltages, fuses and circuit breakers, grounding, electrical code
 compliance; Lightning protection; Battery safety
 T0A01 (B)
 Which of the following is a safety hazard of a 12-volt storage battery?
@@ -2843,7 +2787,7 @@ B. Ensure that the voltmeter and leads are rated for use at the voltages to be m
 C. Ensure that the circuit is grounded through the voltmeter
 D. Ensure that the voltmeter is set to the correct frequency
 ~~
-T0B � Antenna safety: tower safety and grounding, installing antennas, antenna supports
+T0B  Antenna safety: tower safety and grounding, installing antennas, antenna supports
 T0B01 (C)
 Which of the following is good practice when installing ground wires on a tower for lightning protection?
 A. Put a drip loop in the ground connection to prevent water damage to the ground system
@@ -2890,8 +2834,7 @@ T0B07 (C)
 Which of the following is an important safety rule to remember when using a crank-up tower?
 A. This type of tower must never be painted
 B. This type of tower must never be grounded
-C. This type of tower must not be climbed unless it is retracted, or mechanical safety locking devices have been
-installed
+C. This type of tower must not be climbed unless it is retracted, or mechanical safety locking devices have been installed
 D. All these choices are correct
 ~~
 T0B08 (D)
@@ -2939,8 +2882,7 @@ C. 440 MHz
 D. 1296 MHz
 ~~
 T0C03 (C)
-How does the allowable power density for RF safety change if duty cycle changes from 100 percent to 50
-percent?
+How does the allowable power density for RF safety change if duty cycle changes from 100 percent to 50 percent?
 A. It increases by a factor of 3
 B. It decreases by 50 percent
 C. It increases by a factor of 2
@@ -2961,8 +2903,7 @@ C. Higher frequency RF fields are transient in nature
 D. The human body absorbs more RF energy at some frequencies than at others
 ~~
 T0C06 (D)
-Which of the following is an acceptable method to determine whether your station complies with FCC RF
-exposure regulations?
+Which of the following is an acceptable method to determine whether your station complies with FCC RF exposure regulations?
 A. By calculation based on FCC OET Bulletin 65
 B. By calculation based on computer modeling
 C. By measurement of field strength using calibrated equipment

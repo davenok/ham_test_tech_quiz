@@ -9,20 +9,20 @@ class QuizInterface:
     def __init__(self, quiz_brain: QuizBrain) -> None:
         self.quiz = quiz_brain
         self.window = Tk()
-        self.window.title("iQuiz App")
-        self.window.geometry("850x530")
+        self.window.title("Ham Technician Class quiz")
+        self.window.geometry("1000x700")
 
         # Display Title
         self.display_title()
 
         # Creating a canvas for question text, and dsiplay question
         self.canvas = Canvas(width=800, height=250)
-        self.question_text = self.canvas.create_text(400, 125,
+        self.question_text = self.canvas.create_text(600, 125,
                                                      text="Question here",
                                                      width=680,
                                                      fill=THEME_COLOR,
                                                      font=(
-                                                         'Ariel', 15, 'italic')
+                                                         'Ariel', 12, 'italic')
                                                      )
         self.canvas.grid(row=2, column=0, columnspan=2, pady=50)
         self.display_question()
@@ -35,8 +35,8 @@ class QuizInterface:
         self.display_options()
 
         # To show whether the answer is correct or wrong
-        self.feedback = Label(self.window, pady=10, font=("ariel", 15, "bold"))
-        self.feedback.place(x=300, y=380)
+        self.feedback = Label(self.window, pady=10, font=("ariel", 12, "bold"))
+        self.feedback.place(x=400, y=380)
 
         # Next and Quit Button
         self.buttons()
@@ -48,7 +48,7 @@ class QuizInterface:
         """To display title"""
 
         # Title
-        title = Label(self.window, text="iQuiz Application",
+        title = Label(self.window, text="Ham Technician Class Quiz",
                       width=50, bg="green", fg="white", font=("ariel", 20, "bold"))
 
         # place of the title
